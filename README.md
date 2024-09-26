@@ -31,12 +31,15 @@ This project aims to analyze trending YouTube video statistics using SQL, Python
 
 Use the YouTube API to collect historical video statistics.
 Modify the API key in the scripts as needed.
+
 2. Data Processing:
 
 Run data_processing.py to clean and preprocess the data.
+
 3. Trend Analysis:
 
 Use Jupyter notebooks in the /notebooks folder for exploratory data analysis and model training.
+
 4. Deployment:
 
 Run app.py to launch the web application for visualizing video trends.
