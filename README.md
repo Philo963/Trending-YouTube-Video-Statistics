@@ -25,7 +25,7 @@ This project aims to analyze trending YouTube video statistics using SQL, Python
    ```bash
    git clone https://github.com/yourusername/YouTube-Trending-Video-Analysis.git
    cd YouTube-Trending-Video-Analysis
-**Usage**
+## Usage
 Data Collection:
 
 Use the YouTube API to collect historical video statistics.
